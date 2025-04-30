@@ -1,0 +1,1 @@
+# Smart-Hazard-Prediction-System-using-ARIMA-Modal
